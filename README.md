@@ -37,7 +37,7 @@ This is a minimalist quiz game inspired by the popular Indian television show **
 
 ## 📸 Screenshots
 
-https://youtu.be/rUypHVfb2ts
+Watch the gameplay demo on YouTube: [▶️ Watch Now](https://youtu.be/rUypHVfb2ts)
 
 ## 🎯 Goal
 
