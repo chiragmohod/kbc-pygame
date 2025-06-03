@@ -1,0 +1,105 @@
+Q1. Who was the first President of India?
+    A. Dr. Rajendra Prasad
+    B. Jawaharlal Nehru
+    C. Mahatma Gandhi
+    D. Sardar Patel
+Answer: Dr. Rajendra Prasad
+
+Q2. Which planet is known as the Red Planet?
+    A. Venus
+    B. Mars
+    C. Jupiter
+    D. Saturn
+Answer: Mars
+
+Q3. What is the national currency of Japan?
+    A. Yen
+    B. Won
+    C. Ringgit
+    D. Dollar
+Answer: Yen
+
+Q4. Which gas is most abundant in the Earth's atmosphere?
+    A. Oxygen
+    B. Nitrogen
+    C. Carbon Dioxide
+    D. Hydrogen
+Answer: Nitrogen
+
+Q5. Who wrote the Indian national anthem?
+    A. Rabindranath Tagore
+    B. Bankim Chandra Chatterjee
+    C. Subhash Chandra Bose
+    D. Sarojini Naidu
+Answer: Rabindranath Tagore
+
+Q6. Which is the largest bone in the human body?
+    A. Femur
+    B. Tibia
+    C. Humerus
+    D. Skull
+Answer: Femur
+
+Q7. Which Mughal emperor built the Taj Mahal?
+    A. Akbar
+    B. Jahangir
+    C. Shah Jahan
+    D. Aurangzeb
+Answer: Shah Jahan
+
+Q8. Which element has the chemical symbol 'O'?
+    A. Osmium
+    B. Oxygen
+    C. Oxide
+    D. Oganesson
+Answer: Oxygen
+
+Q9. Which is the capital of Australia?
+    A. Sydney
+    B. Melbourne
+    C. Canberra
+    D. Perth
+Answer: Canberra
+
+Q10. In which year did India gain independence?
+    A. 1945
+    B. 1946
+    C. 1947
+    D. 1950
+Answer: 1947
+
+Q11. Which Indian cricketer is known as the 'Master Blaster'?
+    A. Virat Kohli
+    B. MS Dhoni
+    C. Sachin Tendulkar
+    D. Rohit Sharma
+Answer: Sachin Tendulkar
+
+Q12. Which of these is a programming language?
+    A. Python
+    B. Snake
+    C. Cobra
+    D. Anaconda
+Answer: Python
+
+Q13. What is the square root of 144?
+    A. 10
+    B. 11
+    C. 12
+    D. 13
+Answer: 12
+
+Q14. What does HTTP stand for?
+    A. HyperText Transfer Protocol
+    B. HighText Transfer Protocol
+    C. Hyper Transfer Text Protocol
+    D. Hyperlink Text Transfer Protocol
+Answer: HyperText Transfer Protocol
+
+Q15. Who painted the Mona Lisa?
+    A. Leonardo da Vinci
+    B. Pablo Picasso
+    C. Vincent Van Gogh
+    D. Michelangelo
+Answer: Leonardo da Vinci
+
