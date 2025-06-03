@@ -21,13 +21,13 @@ This is a minimalist quiz game inspired by the popular Indian television show **
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/kbc-pygame.git
+   git clone https://github.com/chiragmohod/kbc-pygame.git
    cd kbc-pygame
    ```
 
 2. Install requirements:
    ```bash
-   pip install -r requirements.txt
+   pip install pygame
    ```
 
 3. Run the game:
@@ -37,7 +37,7 @@ This is a minimalist quiz game inspired by the popular Indian television show **
 
 ## 📸 Screenshots
 
-*(Include screenshots or a gameplay demo GIF/video here)*
+https://youtu.be/rUypHVfb2ts
 
 ## 🎯 Goal
 
